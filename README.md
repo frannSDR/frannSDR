@@ -12,8 +12,8 @@
 ## 🛠️ Tech Stack
 
 * **Core Languages:** JavaScript, Python, Java
-* **Web Development:** [Add your specific frameworks/libraries here, e.g., React, Node.js, Express, Django, Spring Boot]
-* **Tools & Databases:** Git, GitHub, [Add your preferred databases like SQL, MongoDB, etc.]
+* **Web Development:** React, Node.js, Javascript, Typescript, PHP.
+* **Tools & Databases:** Git, GitHub, SQL, MongoDB, PostgreSQL.
 
 ## 📈 GitHub Stats
 
