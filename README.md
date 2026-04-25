@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! I'm Fran 👋
+
+**Software Engineering Student & Full Stack Web Developer**
+
+## 👨‍💻 About Me
+
+* 🎓 I'm a Software Engineering student passionate about building scalable and efficient software solutions.
+* 💻 I focus on **Full Stack Web Development**, working across both the frontend and backend to deliver complete, user-friendly applications.
+* 🧩 I enjoy tackling complex logic and applying solid engineering principles to my code, including structured university integrator projects.
+* 🌱 Currently building web applications and continuously expanding my technical toolkit.
+
+## 🛠️ Tech Stack
+
+* **Core Languages:** JavaScript, Python, Java
+* **Web Development:** [Add your specific frameworks/libraries here, e.g., React, Node.js, Express, Django, Spring Boot]
+* **Tools & Databases:** Git, GitHub, [Add your preferred databases like SQL, MongoDB, etc.]
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frannSDR&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frannSDR&theme=radium&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <!--
-**frannSDR/frannSDR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 How to Reach Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **LinkedIn:** [Link to your LinkedIn profile]
+* **Email:** [Your Email Address]
+* **Portfolio:** [Link to your personal website if you have one]
+* -->
