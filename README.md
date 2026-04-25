@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2E4czFqOWt3YWIxcWNubXo5d2xtYmt3NjNqY3d1c21oN3RtbGYyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="400"/>
+</p>
+
 # 👋 Hi there, I'm Fran
 
 🎓 Systems Engineering Student & Full Stack Developer
